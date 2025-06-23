@@ -8,7 +8,7 @@ This project uses a cleaned and class-balanced XGBoost classifier to predict the
 
 - `Train_Data.csv` — Labeled training dataset
 - `Test_Data.csv` — Unlabeled test dataset
-- `final_submission_no_smote.csv` — Final prediction file for submission
+- `lasthackethon.csv` — Final prediction file for submission
 
 ---
 
