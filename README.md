@@ -37,6 +37,6 @@ This project uses a cleaned and class-balanced XGBoost classifier to predict the
 - Tuned for general performance without overfitting
 
 ### 5. Submission
-- Final predictions saved to `lastfinal.csv` in correct format
+- Final predictions saved to `lasthackethon.csv` in correct format
 
 ---
